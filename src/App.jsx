@@ -7,14 +7,14 @@ const App = () => {
         <Navbar />
         <Hero />
       </div>
-      <About />
+      {/* <About />
       <Experience />
       <Tech />
       <Works />
       
       <div className="relative z-0">
         <Contact />
-      </div>
+      </div> */}
     </div>
   )
 }
